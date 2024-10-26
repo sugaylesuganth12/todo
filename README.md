@@ -16,7 +16,7 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/to-do-list-app.git
+git clone https://github.com/sugaylesuganth12/to-do-list-app.git
 Navigate to the project folder:
 bash
 Copy code
